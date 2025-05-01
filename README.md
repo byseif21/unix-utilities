@@ -1,6 +1,6 @@
 # Unix Utilities in C
 
-This repository contains simple implementations of basic Unix utilities in C.
+This repository contains implementations of basic UNIX utilities written in C. Each utility follows UNIX behavior, using system calls and proper error handling.
 
 ## Included Utilities:
 1. **pwd** - Prints the current working directory.
